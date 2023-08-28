@@ -1,7 +1,7 @@
 # Site settings
 title: Lokmont
 description: Lokmont is a responsive simple theme for Jekyll.
-baseurl: "/LYJ-2023" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://LYJ-2023.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
