@@ -1,12 +1,12 @@
 # Site settings
-title: 😍 Lwaje 블로그에 오신 것을 환영합니다 🤩
+title: Lwaje
 description: Lokmont is a responsive simple theme for Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://LYJ-2023.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: 112.jpg
-hero-title: Welcome to Lokmont
+hero-title: 😍 Lwaje 블로그에 오신 것을 환영합니다 🤩
 hero-description: A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.
 
 # Author - Creator
