@@ -2,7 +2,7 @@
 layout: post
 title: How to choose a good guitar
 date: 2017-10-09 17:34:27 +0300
-img: 2.jpg
+img: lohoCard.jpg
 tags: [Music, Shopping, Guitar]
 ---
 Neutra cornhole fanny pack brooklyn dreamcatcher hashtag bitters pickled YOLO photo booth deep v single-origin coffee portland cloud bread. Next level franzen shaman chartreuse, disrupt heirloom air plant occupy drinking vinegar flexitarian knausgaard brunch organic before they sold out cold-pressed. Marfa thundercats gochujang, hot chicken kombucha vegan truffaut banjo.
